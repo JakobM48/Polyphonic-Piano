@@ -1,6 +1,7 @@
 #include <xc.h>
 #include <stdio.h>
 #include "lcd.h"
+#include "pic18f4321-Config.h"
 
 //set internal osc to 8MHz
 #define _XTAL_FREQ 8000000
